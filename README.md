@@ -1,0 +1,2 @@
+# troubleshooting
+openshift origin troubleshooting
